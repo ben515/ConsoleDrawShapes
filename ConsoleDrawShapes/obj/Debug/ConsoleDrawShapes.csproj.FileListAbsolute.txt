@@ -1,0 +1,7 @@
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\bin\Debug\ConsoleDrawShapes.exe.config
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\bin\Debug\ConsoleDrawShapes.exe
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\bin\Debug\ConsoleDrawShapes.pdb
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\obj\Debug\ConsoleDrawShapes.csprojResolveAssemblyReference.cache
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\obj\Debug\ConsoleDrawShapes.csproj.CoreCompileInputs.cache
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\obj\Debug\ConsoleDrawShapes.exe
+c:\users\ben\source\repos\ConsoleDrawShapes\ConsoleDrawShapes\obj\Debug\ConsoleDrawShapes.pdb
